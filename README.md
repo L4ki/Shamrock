@@ -14,3 +14,8 @@ Changelog: 27.07.2019.
 ----------------------
 
  Removed icon: preferences-activities.svg
+ 
+ Changelog: 14.08.2019.
+ -----------------------
+ 
+ widgets: line.svg, clock.svg
