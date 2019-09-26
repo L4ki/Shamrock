@@ -19,3 +19,10 @@ Changelog: 27.07.2019.
  -----------------------
  
  widgets: line.svg, clock.svg
+ 
+ Changelog: 26.09.2019.
+ ----------------------
+ 
+Icons added: battery.svg, input.svg
+
+Modified icons: bookmarks.svg, media.svg
