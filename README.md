@@ -26,3 +26,8 @@ Changelog: 27.07.2019.
 Icons added: battery.svg, input.svg
 
 Modified icons: bookmarks.svg, media.svg
+
+Changelog: 30.01.2020.
+----------------------
+
+Redesigned Theme
