@@ -28,14 +28,14 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.2823896"
-     inkscape:cx="173.94991"
-     inkscape:cy="28.342018"
+     inkscape:zoom="2.3686655"
+     inkscape:cx="182.93329"
+     inkscape:cy="46.81297"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,7 +58,7 @@
          offset="0"
          id="stop831" />
       <stop
-         style="stop-color:#87a96b;stop-opacity:0;"
+         style="stop-color:#00a489;stop-opacity:1"
          offset="1"
          id="stop833" />
     </linearGradient>
@@ -76,6 +76,15 @@
        x1="-71.119474"
        y1="46.302956"
        x2="-37.992922"
+       y2="46.302956"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient835"
+       id="linearGradient838"
+       x1="-71.119476"
+       y1="46.302956"
+       x2="-37.992924"
        y2="46.302956"
        gradientUnits="userSpaceOnUse" />
   </defs>
@@ -116,7 +125,7 @@
          id="g3608"
          transform="matrix(1.0315683,0,0,1.0089619,123.68761,18.326753)">
         <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#87a96b;fill-opacity:1;stroke:none;stroke-width:3.05620646;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#00a489;fill-opacity:1;stroke:none;stroke-width:3.05620646;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
            d="m -71.432611,-18.163938 0,11.2029454 c 22.367168,0 39.50753,17.8857646 39.50753,38.4100976 l 8.962356,0 c 0,-28.0769291 -22.235789,-49.613043 -48.469886,-49.613043 z"
            id="path2840" />
         <path
@@ -140,7 +149,7 @@
         <ellipse
            transform="matrix(2.9862078,0,0,3.7327597,-100.08404,-3.8378052)"
            id="path3807"
-           style="fill:url(#linearGradient837);stroke:#006A80;stroke-width:3.05620646;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+           style="fill:url(#linearGradient837);stroke:url(#linearGradient838);stroke-width:3.05620646;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
            sodipodi:type="arc"
            sodipodi:ry="12.028138"
            sodipodi:rx="15.035172"

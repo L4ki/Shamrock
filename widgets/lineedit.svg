@@ -22,8 +22,8 @@
    inkscape:export-ydpi="90"
    version="1.0">
   <sodipodi:namedview
-     inkscape:window-height="977"
-     inkscape:window-width="1280"
+     inkscape:window-height="1029"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10.0"
@@ -33,9 +33,9 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="11.313708"
-     inkscape:cx="20.611686"
-     inkscape:cy="6.2032138"
+     inkscape:zoom="25.031249"
+     inkscape:cx="20.574157"
+     inkscape:cy="4.4198588"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -77,6 +77,18 @@
   </metadata>
   <defs
      id="defs5">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1264">
+      <stop
+         style="stop-color:#87a96b;stop-opacity:1;"
+         offset="0"
+         id="stop1260" />
+      <stop
+         style="stop-color:#00a489;stop-opacity:1"
+         offset="1"
+         id="stop1262" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4243">
       <stop
@@ -265,6 +277,15 @@
        y1="-14"
        x2="25"
        y2="-14" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1264"
+       id="linearGradient1266"
+       x1="16.292894"
+       y1="3.6213202"
+       x2="43.292894"
+       y2="3.6213202"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -2115,7 +2136,7 @@
        x="16.292894"
        y="3.1207829" />
     <rect
-       style="fill:#87a96b;fill-opacity:1;stroke:none;opacity:1"
+       style="fill:url(#linearGradient1266);fill-opacity:1;stroke:none;opacity:1"
        id="rect5293"
        width="27"
        height="1"

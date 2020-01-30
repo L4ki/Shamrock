@@ -23,8 +23,8 @@
    version="1.0"
    viewBox="0 0 188 124.00001">
   <sodipodi:namedview
-     inkscape:window-height="977"
-     inkscape:window-width="1280"
+     inkscape:window-height="1026"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10.0"
@@ -34,9 +34,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="4"
-     inkscape:cx="70.118844"
-     inkscape:cy="11.146415"
+     inkscape:zoom="2.309375"
+     inkscape:cx="245.22706"
+     inkscape:cy="42.951001"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="layer2"
@@ -61,7 +61,8 @@
      inkscape:snap-perpendicular="true"
      inkscape:snap-tangential="true"
      inkscape:snap-path-clip="true"
-     inkscape:snap-path-mask="true">
+     inkscape:snap-path-mask="true"
+     inkscape:lockguides="true">
     <inkscape:grid
        originy="-13"
        originx="-1"
@@ -94,40 +95,52 @@
   <defs
      id="null">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1560">
+       id="linearGradient1520"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#008080;stop-opacity:1"
+         id="stop1516"
          offset="0"
-         id="stop1554" />
+         style="stop-color:#87a96b;stop-opacity:1" />
       <stop
-         style="stop-color:#87a96b;stop-opacity:1"
+         id="stop1518"
          offset="1"
-         id="stop1556" />
+         style="stop-color:#87a96b;stop-opacity:0.012" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1552">
+       id="linearGradient1538"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#008080;stop-opacity:1"
+         id="stop1533"
          offset="0"
-         id="stop1547" />
+         style="stop-color:#50bad0;stop-opacity:1;" />
       <stop
-         style="stop-color:#87a96b;stop-opacity:1"
+         id="stop1536"
          offset="1"
-         id="stop1550" />
+         style="stop-color:#00a489;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1545">
+       id="linearGradient1531"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#008080;stop-opacity:1"
+         id="stop1527"
          offset="0"
-         id="stop1541" />
+         style="stop-color:#50bad0;stop-opacity:1;" />
       <stop
-         style="stop-color:#87a96b;stop-opacity:1"
+         id="stop1529"
          offset="1"
-         id="stop1543" />
+         style="stop-color:#00a489;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1525"
+       inkscape:collect="always">
+      <stop
+         id="stop1521"
+         offset="0"
+         style="stop-color:#50bad0;stop-opacity:1;" />
+      <stop
+         id="stop1523"
+         offset="1"
+         style="stop-color:#00a489;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -142,28 +155,16 @@
          id="stop1537" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1571">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1567" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop1569" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient1565"
        inkscape:collect="always">
       <stop
          id="stop1561"
          offset="0"
-         style="stop-color:#37c871;stop-opacity:1" />
+         style="stop-color:#87a96b;stop-opacity:1" />
       <stop
          id="stop1563"
          offset="1"
-         style="stop-color:#7f2aff;stop-opacity:0;" />
+         style="stop-color:#87a96b;stop-opacity:0.012" />
     </linearGradient>
     <linearGradient
        id="linearGradient1559"
@@ -171,11 +172,11 @@
       <stop
          id="stop1555"
          offset="0"
-         style="stop-color:#37c871;stop-opacity:1" />
+         style="stop-color:#87a96b;stop-opacity:1" />
       <stop
          id="stop1557"
          offset="1"
-         style="stop-color:#7f2aff;stop-opacity:0;" />
+         style="stop-color:#87a96b;stop-opacity:0.012" />
     </linearGradient>
     <linearGradient
        id="linearGradient1553"
@@ -183,11 +184,11 @@
       <stop
          id="stop1549"
          offset="0"
-         style="stop-color:#37c871;stop-opacity:1" />
+         style="stop-color:#87a96b;stop-opacity:1" />
       <stop
          id="stop1551"
          offset="1"
-         style="stop-color:#7f2aff;stop-opacity:0;" />
+         style="stop-color:#87a96b;stop-opacity:0.012" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -203,63 +204,15 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1668">
-      <stop
-         style="stop-color:#50bad0;stop-opacity:1;"
-         offset="0"
-         id="stop1664" />
-      <stop
-         style="stop-color:#ffff00;stop-opacity:1"
-         offset="1"
-         id="stop1666" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient1660">
       <stop
          style="stop-color:#50bad0;stop-opacity:1;"
          offset="0"
          id="stop1656" />
       <stop
-         style="stop-color:#ffff00;stop-opacity:1"
+         style="stop-color:#00a489;stop-opacity:1"
          offset="1"
          id="stop1658" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1588">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1584" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop1586" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1580">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1576" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop1578" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1572">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1568" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop1570" />
     </linearGradient>
     <style
        id="current-color-scheme"
@@ -309,7 +262,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1545"
+       xlink:href="#linearGradient1539"
        id="linearGradient1480"
        x1="18.240385"
        y1="16.85"
@@ -318,7 +271,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1552"
+       xlink:href="#linearGradient1539"
        id="linearGradient1488"
        x1="18.620636"
        y1="16.50909"
@@ -327,40 +280,13 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1560"
+       xlink:href="#linearGradient1539"
        id="linearGradient1498"
        gradientUnits="userSpaceOnUse"
        x1="18.379562"
        y1="16.50909"
        x2="18.499901"
        y2="4.1000004" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1572"
-       id="linearGradient1574"
-       x1="18.629807"
-       y1="4.1000004"
-       x2="18.889423"
-       y2="16.85"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1580"
-       id="linearGradient1582"
-       x1="18.500099"
-       y1="3.3680189"
-       x2="18.620438"
-       y2="16.515745"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1588"
-       id="linearGradient1590"
-       x1="18.379562"
-       y1="3.7373374"
-       x2="18.379364"
-       y2="16.589611"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1660"
@@ -372,16 +298,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1668"
-       id="linearGradient1670"
-       x1="18.125"
-       y1="-16.875002"
-       x2="18.125"
-       y2="-26.250004"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1668"
+       xlink:href="#linearGradient1531"
        id="linearGradient1678"
        x1="18.620636"
        y1="17.543182"
@@ -390,16 +307,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1668"
-       id="linearGradient1686"
-       x1="18.34831"
-       y1="-19.000002"
-       x2="18.23205"
-       y2="-26.125002"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1668"
+       xlink:href="#linearGradient1538"
        id="linearGradient1694"
        x1="18.259027"
        y1="16.952272"
@@ -408,7 +316,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1668"
+       xlink:href="#linearGradient1525"
        id="linearGradient1704"
        gradientUnits="userSpaceOnUse"
        x1="18.5"
@@ -435,11 +343,11 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1546"
+       xlink:href="#linearGradient1520"
        id="linearGradient1548"
        x1="18.5"
        y1="16.725"
-       x2="18.629808"
+       x2="18.5"
        y2="4.4750004"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
@@ -471,15 +379,6 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1571"
-       id="linearGradient1573"
-       x1="18.759615"
-       y1="17.35"
-       x2="18.889423"
-       y2="4.4750004"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient1539"
        id="linearGradient1554"
        gradientUnits="userSpaceOnUse"
@@ -495,6 +394,42 @@
        y1="4.1625004"
        x2="18.370193"
        y2="17.0375"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1546"
+       id="linearGradient1529"
+       gradientUnits="userSpaceOnUse"
+       x1="18.373426"
+       y1="19.506756"
+       x2="18.279814"
+       y2="4.1956124" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1546"
+       id="linearGradient1547"
+       gradientUnits="userSpaceOnUse"
+       x1="18.521273"
+       y1="1.8024037"
+       x2="18.559811"
+       y2="17.11043" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1546"
+       id="linearGradient1557"
+       x1="19.051884"
+       y1="0.34995627"
+       x2="19.054045"
+       y2="16.846453"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1546"
+       id="linearGradient1566"
+       x1="18.372452"
+       y1="0.28357747"
+       x2="18.486183"
+       y2="17.009998"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
@@ -568,7 +503,7 @@
          height="13"
          width="27"
          id="rect4957-0-5"
-         style="color:#3daee9;opacity:0.5;fill:url(#linearGradient1472);fill-opacity:1.0;stroke:none"
+         style="color:#3daee9;opacity:0.75;fill:url(#linearGradient1472);fill-opacity:1;stroke:none"
          class="ColorScheme-Highlight" />
     </g>
     <g
@@ -581,13 +516,13 @@
          height="2"
          width="26"
          id="rect4997-3-9"
-         style="color:#3daee9;opacity:0.5;fill:#008080;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.75;fill:#008080;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Highlight" />
       <rect
          class="ColorScheme-Highlight"
          transform="scale(1,-1)"
-         style="color:#3daee9;opacity:0.5;fill:#008080;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.75000001;fill:#008080;fill-opacity:1;stroke:none"
          id="rect4999-2-9"
          width="26"
          height="0.99999988"
@@ -657,13 +592,13 @@
          height="2"
          width="26"
          id="rect4997-2-6-2"
-         style="color:#3daee9;opacity:0.25;fill:#87a96b;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.4;fill:#87a96b;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Highlight" />
       <rect
          class="ColorScheme-Highlight"
          transform="scale(1,-1)"
-         style="color:#3daee9;opacity:1;fill:#759759;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:1;fill:#74965a;fill-opacity:1;stroke:none"
          id="rect4999-0-5-7"
          width="26"
          height="0.99999988"
@@ -881,13 +816,13 @@
          height="2"
          width="26"
          id="rect4997-2-6-6"
-         style="color:#31363b;opacity:0.15;fill:#ffff00;fill-opacity:1;stroke:none"
+         style="color:#31363b;opacity:0.15;fill:#00a489;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Text" />
       <rect
          class="ColorScheme-Text"
          transform="scale(1,-1)"
-         style="color:#31363b;fill:#6fc9d1;fill-opacity:1;stroke:none"
+         style="color:#31363b;fill:#006e5c;fill-opacity:1;stroke:none"
          id="rect4999-0-5-0"
          width="26"
          height="0.99999988"
@@ -1111,7 +1046,7 @@
       <rect
          class="ColorScheme-Highlight"
          transform="scale(1,-1)"
-         style="color:#3daee9;opacity:0.99999999;fill:#0094b4;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.99999999;fill:#008c71;fill-opacity:1;stroke:none"
          id="rect4999-0-5-05"
          width="26"
          height="0.99999988"
@@ -1316,11 +1251,11 @@
          height="2"
          width="26"
          id="rect4997-2-6-9"
-         style="fill:#37c871;fill-opacity:1;stroke:none;opacity:0.2"
+         style="fill:#87a96b;fill-opacity:1;stroke:none;opacity:0.2"
          transform="scale(1,-1)" />
       <rect
          transform="scale(1,-1)"
-         style="fill:#37c871;fill-opacity:1;stroke:none"
+         style="fill:#87a96b;fill-opacity:1;stroke:none"
          id="rect4999-0-5-5"
          width="26"
          height="0.99999988"
@@ -1438,33 +1373,33 @@
     <g
        id="minimized-center"
        transform="matrix(0.96296296,0,0,1,0.185185,96.9)"
-       style="fill:#000000;fill-opacity:1;opacity:0.2">
+       style="fill:#000000;fill-opacity:1;opacity:1">
       <rect
          y="4.0999999"
          x="5"
          height="13"
          width="27"
          id="rect4957-0"
-         style="color:#31363b;fill:url(#linearGradient1573);fill-opacity:1;stroke:none"
+         style="color:#31363b;fill:url(#linearGradient1529);fill-opacity:1;stroke:none;opacity:0.2"
          class="ColorScheme-Text" />
     </g>
     <g
        transform="matrix(1,0,0,-1,0,127)"
        id="minimized-top"
-       style="fill:#000000;fill-opacity:1;opacity:0.2">
+       style="fill:#000000;fill-opacity:1;opacity:1">
       <rect
          y="-28.000002"
          x="5"
          height="2"
          width="26"
          id="rect4997-3"
-         style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;opacity:0.01"
+         style="color:#31363b;fill:#37c871;fill-opacity:1;stroke:none;opacity:0.01"
          transform="scale(1,-1)"
          class="ColorScheme-Text" />
       <rect
          class="ColorScheme-Text"
          transform="scale(1,-1)"
-         style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;opacity:0.01"
+         style="color:#31363b;fill:#37c871;fill-opacity:1;stroke:none;opacity:0.01"
          id="rect4999-2"
          width="26"
          height="0.99999988"
@@ -1527,20 +1462,20 @@
     <g
        transform="matrix(-1,0,0,1,36,88)"
        id="minimized-bottom"
-       style="opacity:0.2">
+       style="opacity:1;fill:#000000;fill-opacity:1">
       <rect
          y="-28.000002"
          x="5"
          height="2"
          width="26"
          id="rect4997-2-6"
-         style="color:#31363b;fill:none;fill-opacity:0.15;stroke:none"
+         style="color:#31363b;fill:#37c871;fill-opacity:1;stroke:none;opacity:0.2"
          transform="scale(1,-1)"
          class="ColorScheme-Text" />
       <rect
          class="ColorScheme-Text"
          transform="scale(1,-1)"
-         style="color:#31363b;fill:#ffffff;fill-opacity:0.90196079;stroke:none"
+         style="color:#31363b;fill:#37c871;fill-opacity:1;stroke:none"
          id="rect4999-0-5"
          width="26"
          height="0.99999988"
@@ -1669,7 +1604,7 @@
          height="13"
          width="27"
          id="rect4957-0-5-7"
-         style="color:#3daee9;opacity:0.5;fill:url(#linearGradient1480);fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.75;fill:url(#linearGradient1480);fill-opacity:1;stroke:none"
          class="ColorScheme-Highlight" />
     </g>
     <g
@@ -1682,13 +1617,13 @@
          height="2"
          width="26"
          id="rect4997-3-9-4"
-         style="color:#3daee9;opacity:0.25;fill:#87a96b;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.4;fill:#87a96b;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Highlight" />
       <rect
          class="ColorScheme-Highlight"
          transform="scale(1,-1)"
-         style="color:#3daee9;opacity:1;fill:#759759;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:1;fill:#75925e;fill-opacity:1;stroke:none"
          id="rect4999-2-9-0"
          width="26"
          height="0.99999988"
@@ -1758,13 +1693,13 @@
          height="2"
          width="26"
          id="rect4997-2-6-2-7"
-         style="color:#3daee9;opacity:0.5;fill:#008080;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.75;fill:#008080;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Highlight" />
       <rect
          class="ColorScheme-Highlight"
          transform="scale(1,-1)"
-         style="color:#3daee9;opacity:0.5;fill:#008080;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.75;fill:#008080;fill-opacity:1;stroke:none"
          id="rect4999-0-5-7-0"
          width="26"
          height="0.99999988"
@@ -1906,13 +1841,13 @@
          height="2"
          width="26"
          id="rect4997-3-7-2"
-         style="color:#31363b;opacity:0.15;fill:url(#linearGradient1670);fill-opacity:1;stroke:none"
+         style="color:#31363b;opacity:0.15;fill:#00a489;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Text" />
       <rect
          class="ColorScheme-Text"
          transform="scale(1,-1)"
-         style="color:#31363b;fill:#6ec8d2;fill-opacity:1;stroke:none"
+         style="color:#31363b;fill:#006e5c;fill-opacity:1;stroke:none"
          id="rect4999-2-1-0"
          width="26"
          height="0.99999988"
@@ -2136,7 +2071,7 @@
       <rect
          class="ColorScheme-Highlight"
          transform="scale(1,-1)"
-         style="color:#3daee9;opacity:1;fill:#0096b4;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:1;fill:#00a489;fill-opacity:1;stroke:none"
          id="rect4999-2-4-8"
          width="26"
          height="0.99999988"
@@ -2349,11 +2284,11 @@
          height="2"
          width="26"
          id="rect4997-3-90-9"
-         style="fill:#37c871;fill-opacity:1;stroke:none;opacity:0.2"
+         style="fill:#87a96b;fill-opacity:1;stroke:none;opacity:0.2"
          transform="scale(1,-1)" />
       <rect
          transform="scale(1,-1)"
-         style="fill:#37c871;fill-opacity:1;stroke:none"
+         style="fill:#87a96b;fill-opacity:1;stroke:none"
          id="rect4999-2-8-6"
          width="26"
          height="0.99999988"
@@ -2541,33 +2476,33 @@
     <g
        id="north-minimized-center"
        transform="matrix(0.96296296,0,0,-1,36.185185,118.1)"
-       style="fill:#000000;fill-opacity:1;opacity:0.2">
+       style="fill:#000000;fill-opacity:1;opacity:1">
       <rect
          y="4.0999999"
          x="5"
          height="13"
          width="27"
          id="rect4957-0-98"
-         style="color:#31363b;fill:url(#linearGradient1574);fill-opacity:1;stroke:none"
+         style="color:#31363b;fill:url(#linearGradient1547);fill-opacity:1;stroke:none;opacity:0.2"
          class="ColorScheme-Text" />
     </g>
     <g
        transform="translate(36,88)"
        id="north-minimized-bottom"
-       style="opacity:0.2">
+       style="opacity:1;fill:#000000;fill-opacity:1">
       <rect
          y="-28.000002"
          x="5"
          height="2"
          width="26"
          id="rect4997-3-1"
-         style="color:#31363b;fill:none;fill-opacity:0.15;stroke:none"
+         style="color:#31363b;fill:#37c871;fill-opacity:1;stroke:none;opacity:0.2"
          transform="scale(1,-1)"
          class="ColorScheme-Text" />
       <rect
          class="ColorScheme-Text"
          transform="scale(1,-1)"
-         style="color:#31363b;fill:#ffffff;fill-opacity:0.90196079;stroke:none"
+         style="color:#31363b;fill:#37c871;fill-opacity:1;stroke:none"
          id="rect4999-2-3"
          width="26"
          height="0.99999988"
@@ -2629,20 +2564,20 @@
     <g
        transform="rotate(180,36,63.5)"
        id="north-minimized-top"
-       style="fill:#000000;fill-opacity:1;opacity:0.2">
+       style="fill:#000000;fill-opacity:1;opacity:1">
       <rect
          y="-28.000002"
          x="5"
          height="2"
          width="26"
          id="rect4997-2-6-16"
-         style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;opacity:0.01"
+         style="color:#31363b;fill:#37c871;fill-opacity:1;stroke:none;opacity:0.01"
          transform="scale(1,-1)"
          class="ColorScheme-Text" />
       <rect
          class="ColorScheme-Text"
          transform="scale(1,-1)"
-         style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;opacity:0.01"
+         style="color:#31363b;fill:#37c871;fill-opacity:1;stroke:none;opacity:0.01"
          id="rect4999-0-5-1"
          width="26"
          height="0.99999988"
@@ -2757,7 +2692,7 @@
          height="13"
          width="27"
          id="rect4957-0-5-7-4"
-         style="color:#3daee9;opacity:0.5;fill:url(#linearGradient1488);fill-opacity:1.0;stroke:none"
+         style="color:#3daee9;opacity:0.75;fill:url(#linearGradient1488);fill-opacity:1;stroke:none"
          class="ColorScheme-Highlight" />
     </g>
     <g
@@ -2766,7 +2701,7 @@
        style="fill:#3daee9;fill-opacity:1">
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:1;fill:#759759;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#75925e;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0"
          width="1"
          height="26.000191"
@@ -2778,13 +2713,13 @@
          height="2"
          width="26"
          id="rect4997-3-9-4-2"
-         style="color:#3daee9;opacity:0.25;fill:#87a96b;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.4;fill:#87a96b;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Highlight" />
       <rect
          class="ColorScheme-Highlight"
          transform="scale(1,-1)"
-         style="color:#3daee9;opacity:0.25;fill:#87a96b;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.4;fill:#87a96b;fill-opacity:1;stroke:none"
          id="rect4999-2-9-0-6"
          width="26"
          height="0.99999988"
@@ -2855,13 +2790,13 @@
          height="2"
          width="26"
          id="rect4997-2-6-2-7-7"
-         style="color:#3daee9;opacity:0.5;fill:#008080;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.75;fill:#008080;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Highlight" />
       <rect
          class="ColorScheme-Highlight"
          transform="scale(1,-1)"
-         style="color:#3daee9;opacity:0.5;fill:#008080;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.75;fill:#008080;fill-opacity:1;stroke:none"
          id="rect4999-0-5-7-0-9"
          width="26"
          height="0.99999988"
@@ -2869,7 +2804,7 @@
          y="-29" />
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:0.5;fill:#008080;fill-opacity:1;stroke:none"
+         style="opacity:0.75;fill:#008080;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9"
          width="1"
          height="26.000191"
@@ -2993,7 +2928,7 @@
        style="fill:#ff5555;fill-opacity:1">
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:1;fill:#6ec8d2;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#006e5c;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-96"
          width="1"
          height="26.000191"
@@ -3005,13 +2940,13 @@
          height="2"
          width="26"
          id="rect4997-3-9-4-2-1"
-         style="color:#31363b;opacity:0.15;fill:url(#linearGradient1686);fill-opacity:1;stroke:none"
+         style="color:#31363b;opacity:0.15;fill:#00a489;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Text" />
       <rect
          class="ColorScheme-Text"
          transform="scale(1,-1)"
-         style="color:#31363b;fill:#ffff00;fill-opacity:1;stroke:none;opacity:0.15"
+         style="color:#31363b;fill:#00a489;fill-opacity:1;stroke:none;opacity:0.15"
          id="rect4999-2-9-0-6-9"
          width="26"
          height="0.99999988"
@@ -3220,7 +3155,7 @@
        style="fill:#0090ad;fill-opacity:1">
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:1;fill:#0097b4;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#00a489;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-1"
          width="1"
          height="26.000191"
@@ -3442,7 +3377,7 @@
        style="fill:#7f2aff;fill-opacity:1">
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:1;fill:#37c871;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#87a96b;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-5"
          width="1"
          height="26.000191"
@@ -3454,11 +3389,11 @@
          height="2"
          width="26"
          id="rect4997-3-9-4-2-6"
-         style="fill:#37c871;fill-opacity:1;stroke:none;opacity:0.2"
+         style="fill:#87a96b;fill-opacity:1;stroke:none;opacity:0.2"
          transform="scale(1,-1)" />
       <rect
          transform="scale(1,-1)"
-         style="fill:#37c871;fill-opacity:1;stroke:none;opacity:0.2"
+         style="fill:#87a96b;fill-opacity:1;stroke:none;opacity:0.2"
          id="rect4999-2-9-0-6-4"
          width="26"
          height="0.99999988"
@@ -3641,46 +3576,46 @@
     <g
        id="west-minimized-center"
        transform="matrix(1.0370294,0,0,-0.84615385,70.814661,116.46923)"
-       style="fill:#000000;fill-opacity:1;opacity:0.2">
+       style="fill:#000000;fill-opacity:1;opacity:1">
       <rect
          y="2.9314916"
          x="5"
          height="14.168509"
          width="27"
          id="rect4957-0-5-7-4-43"
-         style="color:#31363b;fill:url(#linearGradient1582);fill-opacity:1;stroke:none;stroke-width:1.04397571"
+         style="color:#31363b;fill:url(#linearGradient1557);fill-opacity:1;stroke:none;stroke-width:1.04397571;opacity:0.2"
          class="ColorScheme-Text" />
     </g>
     <g
        transform="matrix(1.0769152,0,0,1,70.615441,87)"
        id="west-minimized-bottom"
-       style="opacity:0.2">
+       style="opacity:1;fill:#000000;fill-opacity:1">
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none"
+         style="opacity:0.01;fill:#000000;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-54"
          width="1"
          height="26.000191"
          x="29"
          y="4.9999862" />
       <rect
-         y="-28.000002"
-         x="5"
+         y="-28.98839"
+         x="4.9999843"
          height="2"
          width="26"
          id="rect4997-3-9-4-2-7"
-         style="color:#31363b;fill:none;fill-opacity:0.15;stroke:none"
+         style="color:#31363b;opacity:0.2;fill:#37c871;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Text" />
       <rect
          class="ColorScheme-Text"
          transform="scale(1,-1)"
-         style="color:#31363b;fill:#fafafa;fill-opacity:0.70588235;stroke:none"
+         style="color:#31363b;opacity:1;fill:#37c871;fill-opacity:1;stroke:none;stroke-width:1.03918242"
          id="rect4999-2-9-0-6-1"
          width="26"
-         height="0.99999988"
-         x="4.8839278"
-         y="-29.875" />
+         height="1.0799"
+         x="4.9999843"
+         y="-30.045931" />
     </g>
     <g
        id="west-minimized-topright"
@@ -3739,20 +3674,20 @@
     <g
        transform="matrix(-1.0769152,0,0,-1,109.38439,128)"
        id="west-minimized-top"
-       style="fill:#000000;fill-opacity:1;opacity:0.2">
+       style="fill:#000000;fill-opacity:1;opacity:1">
       <rect
          y="-28.000002"
          x="5"
          height="2"
          width="26"
          id="rect4997-2-6-2-7-7-7"
-         style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;opacity:0.01"
+         style="color:#31363b;fill:#37c871;fill-opacity:1;stroke:none;opacity:0.01"
          transform="scale(1,-1)"
          class="ColorScheme-Text" />
       <rect
          class="ColorScheme-Text"
          transform="scale(1,-1)"
-         style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;opacity:0.01"
+         style="color:#31363b;fill:#37c871;fill-opacity:1;stroke:none;opacity:0.01"
          id="rect4999-0-5-7-0-9-6"
          width="26"
          height="0.99999988"
@@ -3761,7 +3696,7 @@
          ry="0" />
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:0.01;fill:#000000;fill-opacity:1;stroke:none"
+         style="opacity:0.01;fill:#37c871;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-4"
          width="1"
          height="26.000191"
@@ -3876,7 +3811,7 @@
          height="13"
          width="27"
          id="rect4957-0-5-7-4-7"
-         style="color:#3daee9;opacity:0.5;fill:url(#linearGradient1498);fill-opacity:1.0;stroke:none"
+         style="color:#3daee9;opacity:0.75;fill:url(#linearGradient1498);fill-opacity:1;stroke:none"
          class="ColorScheme-Highlight" />
     </g>
     <g
@@ -3885,7 +3820,7 @@
        style="fill:#3daee9;fill-opacity:1">
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:1;fill:#759858;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#75925e;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-8"
          width="1"
          height="26.000191"
@@ -3897,13 +3832,13 @@
          height="2"
          width="26"
          id="rect4997-3-9-4-2-3"
-         style="color:#3daee9;opacity:0.25;fill:#87a96b;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.4;fill:#87a96b;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Highlight" />
       <rect
          class="ColorScheme-Highlight"
          transform="scale(1,-1)"
-         style="color:#3daee9;opacity:0.25;fill:#87a96b;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.4;fill:#87a96b;fill-opacity:1;stroke:none"
          id="rect4999-2-9-0-6-5"
          width="26"
          height="0.99999988"
@@ -3974,13 +3909,13 @@
          height="2"
          width="26"
          id="rect4997-2-6-2-7-7-8"
-         style="color:#3daee9;opacity:0.5;fill:#008080;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.75;fill:#008080;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Highlight" />
       <rect
          class="ColorScheme-Highlight"
          transform="scale(1,-1)"
-         style="color:#3daee9;opacity:0.5;fill:#008080;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:0.75;fill:#008080;fill-opacity:1;stroke:none"
          id="rect4999-0-5-7-0-9-0"
          width="26"
          height="0.99999988"
@@ -3988,7 +3923,7 @@
          y="-29" />
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:0.5;fill:#008080;fill-opacity:1;stroke:none"
+         style="opacity:0.75;fill:#008080;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-7"
          width="1"
          height="26.000191"
@@ -4112,7 +4047,7 @@
        style="fill:#ff5555;fill-opacity:1;opacity:1">
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:0.99999999;fill:#6ec8d2;fill-opacity:1;stroke:none"
+         style="opacity:0.99999999;fill:#006e5c;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-96-6"
          width="1"
          height="26.000191"
@@ -4124,13 +4059,13 @@
          height="2"
          width="26"
          id="rect4997-3-9-4-2-1-0"
-         style="color:#31363b;opacity:0.15;fill:#ffff00;fill-opacity:1;stroke:none"
+         style="color:#31363b;opacity:0.15;fill:#00a489;fill-opacity:1;stroke:none"
          transform="scale(1,-1)"
          class="ColorScheme-Text" />
       <rect
          class="ColorScheme-Text"
          transform="scale(1,-1)"
-         style="color:#31363b;fill:#ffff00;fill-opacity:1;stroke:none;opacity:0.15"
+         style="color:#31363b;fill:#00a489;fill-opacity:1;stroke:none;opacity:0.15"
          id="rect4999-2-9-0-6-9-8"
          width="26"
          height="0.99999988"
@@ -4339,7 +4274,7 @@
        style="fill:#0090ad;fill-opacity:1">
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:1;fill:#0096b4;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#00a489;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-1-2"
          width="1"
          height="26.000191"
@@ -4561,7 +4496,7 @@
        style="fill:#7f2aff;fill-opacity:1">
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:1;fill:#37c871;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#87a96b;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-5-3"
          width="1"
          height="26.000191"
@@ -4573,11 +4508,11 @@
          height="2"
          width="26"
          id="rect4997-3-9-4-2-6-4"
-         style="fill:#37c871;fill-opacity:1;stroke:none;opacity:0.2"
+         style="fill:#87a96b;fill-opacity:1;stroke:none;opacity:0.2"
          transform="scale(1,-1)" />
       <rect
          transform="scale(1,-1)"
-         style="fill:#37c871;fill-opacity:1;stroke:none;opacity:0.2"
+         style="fill:#87a96b;fill-opacity:1;stroke:none;opacity:0.2"
          id="rect4999-2-9-0-6-4-0"
          width="26"
          height="0.99999988"
@@ -4760,46 +4695,46 @@
     <g
        id="east-minimized-center"
        transform="matrix(-1.0370294,0,0,-0.84615385,145.18535,116.46923)"
-       style="fill:#000000;fill-opacity:1;opacity:0.2">
+       style="fill:#000000;fill-opacity:1;opacity:1">
       <rect
          y="3.0792189"
          x="5"
          height="14.020782"
          width="27"
          id="rect4957-0-5-7-4-43-5"
-         style="color:#31363b;fill:url(#linearGradient1590);fill-opacity:1;stroke:none;stroke-width:1.03851891"
+         style="color:#31363b;fill:url(#linearGradient1566);fill-opacity:1;stroke:none;stroke-width:1.03851891;opacity:0.2"
          class="ColorScheme-Text" />
     </g>
     <g
        transform="matrix(-1.0769152,0,0,1,145.38457,87)"
        id="east-minimized-bottom"
-       style="opacity:0.2">
+       style="opacity:1;fill:#000000;fill-opacity:1">
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none"
+         style="opacity:0.01;fill:#000000;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-54-9"
          width="1"
          height="26.000191"
          x="29"
          y="4.9999862" />
       <rect
-         y="-28.000002"
+         y="-28.95339"
          x="5"
-         height="2"
+         height="2.0883884"
          width="26"
          id="rect4997-3-9-4-2-7-5"
-         style="color:#31363b;fill:none;fill-opacity:0.15;stroke:none"
+         style="color:#31363b;opacity:0.2;fill:#37c871;fill-opacity:1;stroke:none;stroke-width:1.02185822"
          transform="scale(1,-1)"
          class="ColorScheme-Text" />
       <rect
          class="ColorScheme-Text"
          transform="scale(1,-1)"
-         style="color:#31363b;fill:#fafafa;fill-opacity:0.70588235;stroke:none"
+         style="color:#31363b;opacity:1;fill:#37c871;fill-opacity:1;stroke:none;stroke-width:1.03918242"
          id="rect4999-2-9-0-6-1-9"
          width="26"
-         height="0.99999988"
+         height="1.0799"
          x="5"
-         y="-29.875" />
+         y="-30.043289" />
     </g>
     <g
        id="east-minimized-topleft"
@@ -4858,20 +4793,20 @@
     <g
        transform="matrix(1.0769152,0,0,-1,106.61562,128)"
        id="east-minimized-top"
-       style="fill:#000000;fill-opacity:1;opacity:0.2">
+       style="fill:#000000;fill-opacity:1;opacity:1">
       <rect
          y="-28.000002"
          x="5"
          height="2"
          width="26"
          id="rect4997-2-6-2-7-7-7-0"
-         style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;opacity:0.01"
+         style="color:#31363b;fill:#37c871;fill-opacity:1;stroke:none;opacity:0.01"
          transform="scale(1,-1)"
          class="ColorScheme-Text" />
       <rect
          class="ColorScheme-Text"
          transform="scale(1,-1)"
-         style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;opacity:0.01"
+         style="color:#31363b;fill:#37c871;fill-opacity:1;stroke:none;opacity:0.01"
          id="rect4999-0-5-7-0-9-6-4"
          width="26"
          height="0.99999988"
@@ -4879,7 +4814,7 @@
          y="-29" />
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:0.01;fill:#000000;fill-opacity:1;stroke:none"
+         style="opacity:0.01;fill:#37c871;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-4-9"
          width="1"
          height="26.000191"

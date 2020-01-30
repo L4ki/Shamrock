@@ -36,13 +36,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
      id="namedview25"
      showgrid="false"
-     inkscape:zoom="32.899417"
-     inkscape:cx="5.1386997"
-     inkscape:cy="7.5625848"
+     inkscape:zoom="18.174532"
+     inkscape:cx="11.148155"
+     inkscape:cy="3.1967206"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -60,43 +60,43 @@
      height="3"
      x="3"
      y="0"
-     style="opacity:1;fill:#87a96b;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#007662;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-bottomright"
      d="m 14,17 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#485938;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#007662;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-right"
      d="m 14,15 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#485938;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#007662;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-topright"
      d="m 14,13 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#485938;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#007662;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-bottomleft"
      d="m 10,17 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#485938;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#007662;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-left"
      d="m 10,15 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#485938;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#007662;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-topleft"
      d="m 11,13 -1,0 0,1 1,0 z"
-     style="opacity:1;fill:#485938;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#007662;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-bottom"
      d="m 12,17 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#485938;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#007662;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-center"
      d="m 13,15 -1,0 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#485938;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#007662;fill-opacity:1;stroke:none" />
   <path
      id="bar-inactive-top"
      d="m 12,13 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#485938;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#007662;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-bottomright"
      d="m 14,26 0,1 1,0 0,-1 z"
@@ -139,7 +139,7 @@
      height="1"
      x="0"
      y="8"
-     style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#485938;fill-opacity:1;stroke:none" />
   <rect
      id="hint-bar-stretch"
      width="1"
