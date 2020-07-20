@@ -31,3 +31,12 @@ Changelog: 30.01.2020.
 ----------------------
 
 Redesigned Theme
+
+Changelog: 20.07.2020.
+----------------------
+
+Icon correction: window.svg
+
+Correction widgets: button.svg, checkmarks.svg, tabbar.svg, viewitem.svg
+
+Added widget: plasmoidheading
