@@ -23,14 +23,14 @@ BackgroundAlternate=61,76,95
 BackgroundNormal=26,30,34
 DecorationFocus=135,169,107
 DecorationHover=0,118,98
-ForegroundActive=88,207,230
+ForegroundActive=0,170,127
 ForegroundInactive=194,194,194
 ForegroundLink=135,169,107
 ForegroundNegative=135,169,107
 ForegroundNeutral=0,170,127
 ForegroundNormal=161,180,186
 ForegroundPositive=1,162,153
-ForegroundVisited=0,239,213
+ForegroundVisited=0,170,127
 
 [Colors:Complementary]
 BackgroundAlternate=61,76,95
@@ -44,14 +44,14 @@ ForegroundNegative=135,169,107
 ForegroundNeutral=201,206,59
 ForegroundNormal=161,180,186
 ForegroundPositive=17,209,22
-ForegroundVisited=164,205,255
+ForegroundVisited=0,170,127
 
 [Colors:Selection]
 BackgroundAlternate=61,76,95
 BackgroundNormal=135,169,107
 DecorationFocus=135,169,107
 DecorationHover=0,118,98
-ForegroundActive=161,180,186
+ForegroundActive=0,170,127
 ForegroundInactive=158,158,158
 ForegroundLink=0,118,98
 ForegroundNegative=135,169,107
@@ -65,42 +65,42 @@ BackgroundAlternate=61,76,95
 BackgroundNormal=26,30,34
 DecorationFocus=135,169,107
 DecorationHover=0,118,98
-ForegroundActive=85,199,222
+ForegroundActive=0,170,127
 ForegroundInactive=194,194,194
 ForegroundLink=135,169,107
 ForegroundNegative=135,169,107
 ForegroundNeutral=0,170,127
 ForegroundNormal=161,180,186
 ForegroundPositive=1,162,153
-ForegroundVisited=0,239,213
+ForegroundVisited=0,170,127
 
 [Colors:View]
 BackgroundAlternate=26,30,34
 BackgroundNormal=26,30,34
 DecorationFocus=135,169,107
 DecorationHover=0,118,98
-ForegroundActive=88,207,230
+ForegroundActive=0,170,127
 ForegroundInactive=40,50,62
 ForegroundLink=135,169,107
 ForegroundNegative=255,0,127
 ForegroundNeutral=0,170,127
 ForegroundNormal=191,213,220
 ForegroundPositive=1,162,153
-ForegroundVisited=0,239,213
+ForegroundVisited=0,170,127
 
 [Colors:Window]
 BackgroundAlternate=61,76,95
 BackgroundNormal=26,30,34
 DecorationFocus=135,169,107
 DecorationHover=0,118,98
-ForegroundActive=92,216,240
+ForegroundActive=0,170,127
 ForegroundInactive=171,171,171
 ForegroundLink=135,169,107
 ForegroundNegative=255,0,127
 ForegroundNeutral=0,170,127
 ForegroundNormal=191,213,220
 ForegroundPositive=1,162,153
-ForegroundVisited=0,239,213
+ForegroundVisited=0,170,127
 
 [General]
 ColorScheme=Shamrock
